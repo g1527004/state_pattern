@@ -21,4 +21,3 @@ int main()
 
     std::this_thread::sleep_for(std::chrono::seconds(5));// 5 秒待つ  
    }
-}
